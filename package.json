@@ -1,0 +1,23 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "front end masters react course w/ Brian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlySkillet/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlySkillet/adopt-me/issues"
+  },
+  "homepage": "https://github.com/SlySkillet/adopt-me#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
